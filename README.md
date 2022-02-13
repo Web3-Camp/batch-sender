@@ -1,3 +1,5 @@
-# batch-sender
+# Token Batch Sender
 
-https://teamtaoist.github.io/batch-sender/index.html
+It supports sending ERC20 tokens and ETH.
+
+https://web3-camp.github.io/batch-sender/index.html
